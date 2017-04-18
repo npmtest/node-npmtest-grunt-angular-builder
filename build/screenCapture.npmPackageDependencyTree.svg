@@ -1,0 +1,17 @@
+<svg height="222" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="222" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">1 megabytes installed</tspan>
+<tspan x="10" y="42"></tspan>
+<tspan x="10" y="58">node_modules</tspan>
+<tspan x="10" y="74">├── UNMET PEER DEPENDENCY grunt@~0.4.1</tspan>
+<tspan x="10" y="90">└─┬ grunt-angular-builder@1.0.0-beta3 </tspan>
+<tspan x="10" y="106">  ├── colors@0.6.2 </tspan>
+<tspan x="10" y="122">  ├── UNMET PEER DEPENDENCY grunt@~0.4.0</tspan>
+<tspan x="10" y="138">  └─┬ grunt-contrib-concat@0.4.0 </tspan>
+<tspan x="10" y="154">    └─┬ chalk@0.4.0 </tspan>
+<tspan x="10" y="170">      ├── ansi-styles@1.0.0 </tspan>
+<tspan x="10" y="186">      ├── has-color@0.1.7 </tspan>
+<tspan x="10" y="202">      └── strip-ansi@0.1.1</tspan>
+</text>
+</svg>
